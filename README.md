@@ -18,4 +18,4 @@
        6. TextBlob Model
        7. Emotions in data
 
-## For better visual you can also visit this link:-https://colab.research.google.com/drive/1rUKY3TW36-TQIjyoSOcLiufpllu5I18D#scrollTo=3cZ056vsEron
+## For better visual you can also visit this link:-https://colab.research.google.com/drive/1rUKY3TW36-TQIjyoSOcLiufpllu5I18D?usp=sharing
